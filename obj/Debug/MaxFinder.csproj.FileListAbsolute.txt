@@ -1,0 +1,6 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\obj\Debug\MaxFinder.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\bin\Debug\MaxFinder.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\bin\Debug\MaxFinder.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\bin\Debug\MaxFinder.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\obj\Debug\MaxFinder.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\MaxFinder\obj\Debug\MaxFinder.pdb
